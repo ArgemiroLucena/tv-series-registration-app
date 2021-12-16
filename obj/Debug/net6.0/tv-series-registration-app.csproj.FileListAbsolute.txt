@@ -1,0 +1,15 @@
+D:\Projetos\tv-series-registration-app\bin\Debug\net6.0\tv-series-registration-app.exe
+D:\Projetos\tv-series-registration-app\bin\Debug\net6.0\tv-series-registration-app.deps.json
+D:\Projetos\tv-series-registration-app\bin\Debug\net6.0\tv-series-registration-app.runtimeconfig.json
+D:\Projetos\tv-series-registration-app\bin\Debug\net6.0\tv-series-registration-app.dll
+D:\Projetos\tv-series-registration-app\bin\Debug\net6.0\ref\tv-series-registration-app.dll
+D:\Projetos\tv-series-registration-app\bin\Debug\net6.0\tv-series-registration-app.pdb
+D:\Projetos\tv-series-registration-app\obj\Debug\net6.0\tv-series-registration-app.csproj.AssemblyReference.cache
+D:\Projetos\tv-series-registration-app\obj\Debug\net6.0\tv-series-registration-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\tv-series-registration-app\obj\Debug\net6.0\tv-series-registration-app.AssemblyInfoInputs.cache
+D:\Projetos\tv-series-registration-app\obj\Debug\net6.0\tv-series-registration-app.AssemblyInfo.cs
+D:\Projetos\tv-series-registration-app\obj\Debug\net6.0\tv-series-registration-app.csproj.CoreCompileInputs.cache
+D:\Projetos\tv-series-registration-app\obj\Debug\net6.0\tv-series-registration-app.dll
+D:\Projetos\tv-series-registration-app\obj\Debug\net6.0\ref\tv-series-registration-app.dll
+D:\Projetos\tv-series-registration-app\obj\Debug\net6.0\tv-series-registration-app.pdb
+D:\Projetos\tv-series-registration-app\obj\Debug\net6.0\tv-series-registration-app.genruntimeconfig.cache
